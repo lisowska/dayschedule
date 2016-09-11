@@ -1,0 +1,139 @@
+body{
+    padding-left: 150px;
+	font-family:Arial;
+	margin-bottom:200px;
+}
+
+.time_of_day{
+	background-color:#072C61;
+    color: white;
+    padding: 5px;
+}
+
+.all_document{
+width:660px;
+}
+
+.guide{
+	width:660px;
+	margin-top:35px;
+	margin-bottom:15px;
+	
+}
+.tv{
+	width:220px;
+	float:left;
+	height:78px;
+	color:#00ccff;
+	text-align:left;
+	font-size:22px;
+}
+
+.guide2{
+	margin-top:0px;
+}
+		
+.coachtrip{
+	background-color:#003366;
+	display:block;
+	width:440px;
+	float:left;
+	height:78px;
+	padding-top:3px;
+}
+
+.on_now{
+	color:#00ccff;
+	margin-top:2px;
+	padding-left:10px;
+	padding-top:8px;
+}
+
+.zagreb{
+	color:white;
+	margin-top:-15px;
+	padding-left:10px;
+}
+
+.wednesday{
+	padding-top:100px;
+	font-size:22px;
+	color:#00ccff;
+	text-align:left;
+}
+
+.time{
+	color:#00ccff;
+	font-weight:bold;
+	float:left;
+	font-size:18px;
+}
+
+.description{
+	color:#333;
+	padding-left:15px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.description_two{
+	color:#333;
+	font-size:15px;
+}
+
+.description_blue{
+	font-size:18px;
+	color:#00ccff;
+	padding-left:15px;
+	font-weight:bold;
+}
+
+.arrow{
+	float:right;
+}
+
+.column{
+	float:left;
+}
+.secondcolumn{
+	float:right;
+	margin-top:223px;
+	margin-right:205px;
+}
+
+.citation{
+	color:#00ccff;
+	text-align:center;
+	font-weight:bold;
+	font-style:italic;
+}
+
+.plus{
+	display:none;
+	font-size:13px;
+	color:#333;
+}
+
+.test{
+	background-color:white;
+	padding:8px;
+	margin:3px;
+}
+
+div.test:hover { 
+	background-color: #ededed; 
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
